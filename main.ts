@@ -64,7 +64,8 @@ const books = books$.map((_i, el) => {
   const title = book$.find('a').text();
   const link = book$.find('a').attr('href')!;
   const id = new URL(link || '').searchParams.get('ItemId')!;
-  const price = parseInt(book$.find('.ss_p').first().text().replace(/,/g, ''));
+  const rawPrice = book$.find('.ss_p').first().text();
+  const price = parseInt(rawPrice.replace(/,/g, ''));
   const date = book$.find('.fontcolor_gray').text()
     .replace(/(일에 보관$|\s)/g, '')
     .replace(/\D/g, '-');
@@ -72,9 +73,11 @@ const books = books$.map((_i, el) => {
 
   return {
     id,
+    guid: id,
     title,
     link,
-    description: '',
+    description: `![](${coverImage})
+${rawPrice}원`,
     content: JSON.stringify({
       price,
       coverImage,
