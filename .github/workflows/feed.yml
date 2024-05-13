@@ -6,7 +6,7 @@ on:
       - '**.ts'
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '* */3 * * *'
 
 jobs:
   scheduled:
