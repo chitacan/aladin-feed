@@ -6,13 +6,13 @@ on:
       - '**.ts'
   workflow_dispatch:
   schedule:
-    - cron:  '* */3 * * *'
+    - cron:  '0 */3 * * *'
 
 jobs:
   scheduled:
     runs-on: [self-hosted, cmms]
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: denoland/setup-deno@v1
       with:
         deno-version: v1.43.x
