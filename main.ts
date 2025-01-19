@@ -38,7 +38,7 @@ async function readCaptcha(): Promise<
     body: { txtCaptcha: string } | Record<string | number | symbol, never>;
   }
 > {
-  const { html: loginPopup, cookies } = await fetch(
+  const { html: loginHTML, cookies } = await fetch(
     `${BASE_URL}/login/wlogin.aspx?returnurl=/`,
     {
       headers: {
@@ -52,9 +52,9 @@ async function readCaptcha(): Promise<
       return { html, cookies };
     });
 
-  const loginPopup$ = new DOMParser()
-    .parseFromString(loginPopup, "text/html");
-  const captcha = loginPopup$.querySelector("#imgCaptcha");
+  const login$ = new DOMParser()
+    .parseFromString(loginHTML, "text/html");
+  const captcha = login$.querySelector("#imgCaptcha");
 
   if (!captcha) {
     return { cookies, body: {} };
@@ -77,7 +77,6 @@ async function readCaptcha(): Promise<
   const dataURL = await img.getBase64("image/png");
   const png = await img.getBuffer("image/png");
 
-  // write dataURL to file
   await Deno.writeFile("captcha.png", png);
 
   const result = await fetch("https://api.openai.com/v1/chat/completions", {
@@ -111,23 +110,16 @@ async function readCaptcha(): Promise<
     .then((res) => res.json());
 
   const captchaResult = result.choices[0].message.content;
-  console.log("read:", captchaResult);
+  console.log("captcha read:", captchaResult);
   return {
     cookies,
     body: { txtCaptcha: captchaResult },
   };
 }
 
-// get login popup and find if there is captcha
 const captchaResult = await readCaptcha();
 
-console.log("captchaResult", captchaResult.cookies.join("; "), {
-  ...captchaResult.body,
-});
-
-// await new Promise((resolve) => setTimeout(resolve, 5000));
-
-const loginResponse = await fetch(`${BASE_URL}/login/wlogin.aspx?returnurl=/`, {
+const loginForm = await fetch(`${BASE_URL}/login/wlogin.aspx?returnurl=/`, {
   method: "POST",
   credentials: "include",
   headers: {
@@ -143,19 +135,17 @@ const loginResponse = await fetch(`${BASE_URL}/login/wlogin.aspx?returnurl=/`, {
   }).toString(),
 });
 
-const loginHTML = await loginResponse.text();
-const loginCookies = loginResponse.headers.getSetCookie().map((d) =>
+const loginFormHTML = await loginForm.text();
+const loginCookies = loginForm.headers.getSetCookie().map((d) =>
   d.split(";")[0]
 );
 
-console.log("loginCookies", loginCookies);
-
-const match = loginHTML.match(/<script>alert\(\"(.*)\"\)/);
+const match = loginFormHTML.match(/<script>alert\(\"(.*)\"\)/);
 if (match) {
   throw new Error(`Login failed with: ${match[1]}`);
 }
 
-if (!loginHTML.includes("document.location.href")) {
+if (!loginFormHTML.includes("document.location.href")) {
   throw new Error("Login failed with redirections");
 }
 
