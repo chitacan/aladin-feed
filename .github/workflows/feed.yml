@@ -24,8 +24,14 @@ jobs:
       env:
         ALADIN_EMAIL: ${{ secrets.ALADIN_EMAIL }}
         ALADIN_PASSWORD: ${{ secrets.ALADIN_PASSWORD }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         deno run -A main.ts
+    - name: Archive captcha image
+      uses: actions/upload-artifact@v4
+      with:
+        name: captcha
+        path: captcha.png
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
