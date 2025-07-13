@@ -110,7 +110,6 @@ async function readCaptcha(): Promise<
     .then((res) => res.json());
 
   const captchaResult = result.choices[0].message.content;
-  console.log("captcha read:", captchaResult);
   return {
     cookies,
     body: { txtCaptcha: captchaResult },
@@ -119,6 +118,7 @@ async function readCaptcha(): Promise<
 
 const captchaResult = await readCaptcha();
 
+console.log("Fetching login form...");
 const loginForm = await fetch(`${BASE_URL}/login/wlogin.aspx?returnurl=/`, {
   method: "POST",
   credentials: "include",
@@ -142,13 +142,16 @@ const loginCookies = loginForm.headers.getSetCookie().map((d) =>
 
 const match = loginFormHTML.match(/<script>alert\(\"(.*)\"\)/);
 if (match) {
-  throw new Error(`Login failed with: ${match[1]}`);
+  console.error(`Login failed with: ${match[1]}`);
+  Deno.exit(1);
 }
 
-if (!loginFormHTML.includes("document.location.href")) {
-  throw new Error("Login failed with redirections");
-}
+// if (!loginFormHTML.includes("document.location.href")) {
+//   console.error("Login failed with redirections");
+//  Deno.exit(1);
+// }
 
+console.log("Fetching basket page...");
 const basketHTML = await fetch(`${BASE_URL}/shop/wsafebasket.aspx?start=we`, {
   credentials: "include",
   headers: {
@@ -215,3 +218,4 @@ for (const book of books) {
 }
 
 await Deno.writeTextFile("feed.xml", feed.rss2());
+console.log("Feed generated successfully!");
