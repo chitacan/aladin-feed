@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>aladin basket</title>
+        <link>https://www.aladin.co.kr/shop/wsafebasket.aspx</link>
+        <description>chitacan's personal dogdrip feed</description>
+        <lastBuildDate>Sat, 05 Sep 2026 19:39:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>aladin basket</title>
+            <url>https://image.aladin.co.kr/img/logo_big.jpg</url>
+            <link>https://www.aladin.co.kr/shop/wsafebasket.aspx</link>
+        </image>
+        <copyright>All rights reserved 2025, chiatacn</copyright>
+        <item>
+            <title><![CDATA[블랙홀]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360799021</link>
+            <guid>360799021</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36079/90/coversum/8925573938_1.jpg)
+  29,700원]]></description>
+            <content:encoded><![CDATA[{"price":29700,"coverImage":"https://image.aladin.co.kr/product/36079/90/coversum/8925573938_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마지막 몰입 확장판 : 나를 넘어서는 힘]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335622000</link>
+            <guid>335622000</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/33562/20/coversum/k302939786_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/33562/20/coversum/k302939786_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[절대 성공하지 못할 거야]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=238156288</link>
+            <guid>238156288</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/23815/62/coversum/k142639180_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/23815/62/coversum/k142639180_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[결정, 흔들리지 않고 마음먹은 대로]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=163169515</link>
+            <guid>163169515</guid>
+            <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/16316/95/coversum/k702533342_1.jpg)
+  14,400원]]></description>
+            <content:encoded><![CDATA[{"price":14400,"coverImage":"https://image.aladin.co.kr/product/16316/95/coversum/k702533342_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인생을 운에 맡기지 마라]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286617072</link>
+            <guid>286617072</guid>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/28661/70/coversum/8935213713_1.jpg)
+  15,300원]]></description>
+            <content:encoded><![CDATA[{"price":15300,"coverImage":"https://image.aladin.co.kr/product/28661/70/coversum/8935213713_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[큇 QUIT]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306192250</link>
+            <guid>306192250</guid>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/30619/22/coversum/8984079731_2.jpg)
+  18,900원]]></description>
+            <content:encoded><![CDATA[{"price":18900,"coverImage":"https://image.aladin.co.kr/product/30619/22/coversum/8984079731_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어떻게 살아낼 것인가]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=397822311</link>
+            <guid>397822311</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/39782/23/coversum/k192130202_1.jpg)
+  26,820원]]></description>
+            <content:encoded><![CDATA[{"price":26820,"coverImage":"https://image.aladin.co.kr/product/39782/23/coversum/k192130202_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱크 어게인 (리커버 블랙 에디션)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296919110</link>
+            <guid>296919110</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/29691/91/coversum/k232838587_1.jpg)
+  21,600원]]></description>
+            <content:encoded><![CDATA[{"price":21600,"coverImage":"https://image.aladin.co.kr/product/29691/91/coversum/k232838587_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그림이 나를 자유롭게 할 거야]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396084012</link>
+            <guid>396084012</guid>
+            <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/39608/40/coversum/8968335516_1.jpg)
+  20,700원]]></description>
+            <content:encoded><![CDATA[{"price":20700,"coverImage":"https://image.aladin.co.kr/product/39608/40/coversum/8968335516_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[줄 서서 보는 그림의 비밀]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371923883</link>
+            <guid>371923883</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37192/38/coversum/k622031297_1.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/37192/38/coversum/k622031297_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성과 가속의 법칙]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=395246780</link>
+            <guid>395246780</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/39524/67/coversum/k832139720_1.jpg)
+  15,210원]]></description>
+            <content:encoded><![CDATA[{"price":15210,"coverImage":"https://image.aladin.co.kr/product/39524/67/coversum/k832139720_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다시 만나는 자본주의]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=394017811</link>
+            <guid>394017811</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/39401/78/coversum/k622139971_1.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/39401/78/coversum/k622139971_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[세트] 티핑 포인트 + 티핑 포인트의 설계자들 - 전2권]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=358743395</link>
+            <guid>358743395</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35874/33/coversum/k792037782_1.jpg)
+  33,120원]]></description>
+            <content:encoded><![CDATA[{"price":33120,"coverImage":"https://image.aladin.co.kr/product/35874/33/coversum/k792037782_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[누구와 함께 일할 것인가]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322443804</link>
+            <guid>322443804</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/32244/38/coversum/k372834633_1.jpg)
+  15,120원]]></description>
+            <content:encoded><![CDATA[{"price":15120,"coverImage":"https://image.aladin.co.kr/product/32244/38/coversum/k372834633_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리는 실리콘밸리에 속았다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385832357</link>
+            <guid>385832357</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/38583/23/coversum/k262135253_1.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/38583/23/coversum/k262135253_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미니멀리즘 프로그래머]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385359128</link>
+            <guid>385359128</guid>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/38535/91/coversum/k092135330_2.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/38535/91/coversum/k092135330_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[취향을 설계하는 곳, 츠타야]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=123068578</link>
+            <guid>123068578</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/12306/85/coversum/k022531151_3.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/12306/85/coversum/k022531151_3.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로세스 이코노미]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293276268</link>
+            <guid>293276268</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/29327/62/coversum/k122837815_2.jpg)
+  14,400원]]></description>
+            <content:encoded><![CDATA[{"price":14400,"coverImage":"https://image.aladin.co.kr/product/29327/62/coversum/k122837815_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브라이언 트레이시 시간 관리론]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384981093</link>
+            <guid>384981093</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/38498/10/coversum/k642135418_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/38498/10/coversum/k642135418_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브라이언 트레이시 자기 확신론]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384979882</link>
+            <guid>384979882</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/38497/98/coversum/k252135418_1.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/38497/98/coversum/k252135418_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마지막 몰입 확장판 : 나를 넘어서는 힘]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336121284</link>
+            <guid>336121284</guid>
+            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/33612/12/coversum/e892532051_1.jpg)
+  12,600원]]></description>
+            <content:encoded><![CDATA[{"price":12600,"coverImage":"https://image.aladin.co.kr/product/33612/12/coversum/e892532051_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[죽음은 통제할 수 없지만 인생은 설계할 수 있다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360905839</link>
+            <guid>360905839</guid>
+            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36090/58/coversum/k942038868_1.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/36090/58/coversum/k942038868_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직감의 힘]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379755885</link>
+            <guid>379755885</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37975/58/coversum/k802034969_1.jpg)
+  17,910원]]></description>
+            <content:encoded><![CDATA[{"price":17910,"coverImage":"https://image.aladin.co.kr/product/37975/58/coversum/k802034969_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[세트] 머더봇 다이어리 시리즈 세트 - 전4권]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=267011484</link>
+            <guid>267011484</guid>
+            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/26701/14/coversum/k032730987_1.jpg)
+  54,900원]]></description>
+            <content:encoded><![CDATA[{"price":54900,"coverImage":"https://image.aladin.co.kr/product/26701/14/coversum/k032730987_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일 잘하는 엔지니어의 생각 기법]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=378401803</link>
+            <guid>378401803</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37840/18/coversum/k512033705_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/37840/18/coversum/k512033705_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼체 X : 관상지주]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377095162</link>
+            <guid>377095162</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37709/51/coversum/k682033066_1.jpg)
+  15,750원]]></description>
+            <content:encoded><![CDATA[{"price":15750,"coverImage":"https://image.aladin.co.kr/product/37709/51/coversum/k682033066_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비범한 평범]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=378807375</link>
+            <guid>378807375</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37880/73/coversum/k782033904_1.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/37880/73/coversum/k782033904_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[커뮤니티 자본론]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320581754</link>
+            <guid>320581754</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/32058/17/coversum/k862834793_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/32058/17/coversum/k862834793_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[창조하는 인간의 시대]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=374905406</link>
+            <guid>374905406</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37490/54/coversum/k332032214_1.jpg)
+  15,300원]]></description>
+            <content:encoded><![CDATA[{"price":15300,"coverImage":"https://image.aladin.co.kr/product/37490/54/coversum/k332032214_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 개발자를 위한 시스템 설계 수업]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372314289</link>
+            <guid>372314289</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37231/42/coversum/k292031803_1.jpg)
+  31,500원]]></description>
+            <content:encoded><![CDATA[{"price":31500,"coverImage":"https://image.aladin.co.kr/product/37231/42/coversum/k292031803_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제4의 대전환]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345803668</link>
+            <guid>345803668</guid>
+            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34580/36/coversum/8947549711_1.jpg)
+  38,700원]]></description>
+            <content:encoded><![CDATA[{"price":38700,"coverImage":"https://image.aladin.co.kr/product/34580/36/coversum/8947549711_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밑바닥부터 시작하는 웹 브라우저]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371722160</link>
+            <guid>371722160</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37172/21/coversum/k082031678_1.jpg)
+  40,500원]]></description>
+            <content:encoded><![CDATA[{"price":40500,"coverImage":"https://image.aladin.co.kr/product/37172/21/coversum/k082031678_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콘텐츠의 미래]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=123052752</link>
+            <guid>123052752</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/12305/27/coversum/8901219468_1.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/12305/27/coversum/8901219468_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[긱 웨이]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=368855680</link>
+            <guid>368855680</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36885/56/coversum/8935214833_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/36885/56/coversum/8935214833_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사업의 철학 (10주년 기념판)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370831264</link>
+            <guid>370831264</guid>
+            <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/37083/12/coversum/k822030059_1.jpg)
+  18,900원]]></description>
+            <content:encoded><![CDATA[{"price":18900,"coverImage":"https://image.aladin.co.kr/product/37083/12/coversum/k822030059_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아 젠슨 황, 생각하는 기계]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=363872397</link>
+            <guid>363872397</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36387/23/coversum/8925573768_3.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/36387/23/coversum/8925573768_3.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설득의 언어]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366333509</link>
+            <guid>366333509</guid>
+            <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36633/35/coversum/k092030780_1.jpg)
+  16,020원]]></description>
+            <content:encoded><![CDATA[{"price":16020,"coverImage":"https://image.aladin.co.kr/product/36633/35/coversum/k092030780_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계 감염 예고]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353238764</link>
+            <guid>353238764</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35323/87/coversum/8974784807_1.jpg)
+  21,600원]]></description>
+            <content:encoded><![CDATA[{"price":21600,"coverImage":"https://image.aladin.co.kr/product/35323/87/coversum/8974784807_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라이어스 포커 (완역본)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354150892</link>
+            <guid>354150892</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35415/8/coversum/k452035425_1.jpg)
+  16,650원]]></description>
+            <content:encoded><![CDATA[{"price":16650,"coverImage":"https://image.aladin.co.kr/product/35415/8/coversum/k452035425_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기억의 미래]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369339713</link>
+            <guid>369339713</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36933/97/coversum/k662030316_1.jpg)
+  18,900원]]></description>
+            <content:encoded><![CDATA[{"price":18900,"coverImage":"https://image.aladin.co.kr/product/36933/97/coversum/k662030316_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새로운 질서]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367691384</link>
+            <guid>367691384</guid>
+            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36769/13/coversum/k212030495_1.jpg)
+  17,820원]]></description>
+            <content:encoded><![CDATA[{"price":17820,"coverImage":"https://image.aladin.co.kr/product/36769/13/coversum/k212030495_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미래를 사는 사람 샘 올트먼]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367697058</link>
+            <guid>367697058</guid>
+            <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36769/70/coversum/8932925275_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/36769/70/coversum/8932925275_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코드 너머, 회사보다 오래 남을 개발자]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366808194</link>
+            <guid>366808194</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36680/81/coversum/k552030486_1.jpg)
+  21,600원]]></description>
+            <content:encoded><![CDATA[{"price":21600,"coverImage":"https://image.aladin.co.kr/product/36680/81/coversum/k552030486_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고잉 인피니트]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343301490</link>
+            <guid>343301490</guid>
+            <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34330/14/coversum/8927813227_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/34330/14/coversum/8927813227_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모던 소프트웨어 엔지니어링]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361679771</link>
+            <guid>361679771</guid>
+            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36167/97/coversum/k622038191_1.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/36167/97/coversum/k622038191_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교육의 뇌과학]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357821717</link>
+            <guid>357821717</guid>
+            <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35782/17/coversum/k662036444_1.jpg)
+  17,910원]]></description>
+            <content:encoded><![CDATA[{"price":17910,"coverImage":"https://image.aladin.co.kr/product/35782/17/coversum/k662036444_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양자와 장]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366371149</link>
+            <guid>366371149</guid>
+            <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36637/11/coversum/k972030882_1.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/36637/11/coversum/k972030882_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[천재 로봇공학자 다니엘라 루스의 MIT 로봇 수업]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366338492</link>
+            <guid>366338492</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36633/84/coversum/k222030782_1.jpg)
+  20,700원]]></description>
+            <content:encoded><![CDATA[{"price":20700,"coverImage":"https://image.aladin.co.kr/product/36633/84/coversum/k222030782_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퀀트 투자의 기초]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=364158055</link>
+            <guid>364158055</guid>
+            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36415/80/coversum/k242039991_2.jpg)
+  22,320원]]></description>
+            <content:encoded><![CDATA[{"price":22320,"coverImage":"https://image.aladin.co.kr/product/36415/80/coversum/k242039991_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나는 솔로프리너다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=364912540</link>
+            <guid>364912540</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36491/25/coversum/k952039115_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/36491/25/coversum/k952039115_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[솔로프리너의 시대]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=364098907</link>
+            <guid>364098907</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36409/89/coversum/k472039886_1.jpg)
+  21,600원]]></description>
+            <content:encoded><![CDATA[{"price":21600,"coverImage":"https://image.aladin.co.kr/product/36409/89/coversum/k472039886_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 안다고 믿는 것을 다르게 보는 법, 수학]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268396850</link>
+            <guid>268396850</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/26839/68/coversum/k332730393_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/26839/68/coversum/k332730393_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[개발자의 글쓰기]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245701637</link>
+            <guid>245701637</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/24570/16/coversum/e142537315_1.jpg)
+  12,600원]]></description>
+            <content:encoded><![CDATA[{"price":12600,"coverImage":"https://image.aladin.co.kr/product/24570/16/coversum/e142537315_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기록형 인간 (개정판)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=56273423</link>
+            <guid>56273423</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/5627/34/coversum/e872437040_2.jpg)
+  9,100원]]></description>
+            <content:encoded><![CDATA[{"price":9100,"coverImage":"https://image.aladin.co.kr/product/5627/34/coversum/e872437040_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생성형 AI의 구조]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362566794</link>
+            <guid>362566794</guid>
+            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36256/67/coversum/k802038621_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/36256/67/coversum/k802038621_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진보와 빈곤]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=87628040</link>
+            <guid>87628040</guid>
+            <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/8762/80/coversum/8937604477_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/8762/80/coversum/8937604477_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10배의 법칙]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322923682</link>
+            <guid>322923682</guid>
+            <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/32292/36/coversum/8960519944_1.jpg)
+  16,650원]]></description>
+            <content:encoded><![CDATA[{"price":16650,"coverImage":"https://image.aladin.co.kr/product/32292/36/coversum/8960519944_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 전쟁]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13214689</link>
+            <guid>13214689</guid>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/1321/46/coversum/898371249x_1.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/1321/46/coversum/898371249x_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물리의 정석: 고전 역학 편]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801636</link>
+            <guid>113801636</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/11380/16/coversum/8983718374_1.jpg)
+  16,650원]]></description>
+            <content:encoded><![CDATA[{"price":16650,"coverImage":"https://image.aladin.co.kr/product/11380/16/coversum/8983718374_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수학의 중력]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361713951</link>
+            <guid>361713951</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36171/39/coversum/8990247918_1.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/36171/39/coversum/8990247918_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케네스 포드의 양자물리학 강의]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362188548</link>
+            <guid>362188548</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36218/85/coversum/k482038505_1.jpg)
+  16,650원]]></description>
+            <content:encoded><![CDATA[{"price":16650,"coverImage":"https://image.aladin.co.kr/product/36218/85/coversum/k482038505_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그들의 생각을 바꾸는 방법]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311968925</link>
+            <guid>311968925</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/31196/89/coversum/8901269406_1.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/31196/89/coversum/8901269406_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어떻게 나를 최고로 만드는가]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=18518369</link>
+            <guid>18518369</guid>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/1851/83/coversum/892554797x_1.jpg)
+  11,700원]]></description>
+            <content:encoded><![CDATA[{"price":11700,"coverImage":"https://image.aladin.co.kr/product/1851/83/coversum/892554797x_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경제신문이 말하지 않는 경제 이야기]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=331083132</link>
+            <guid>331083132</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/33108/31/coversum/s422038712_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/33108/31/coversum/s422038712_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지식의 사회사 1]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118699245</link>
+            <guid>118699245</guid>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/11869/92/coversum/8937434563_1.jpg)
+  18,900원]]></description>
+            <content:encoded><![CDATA[{"price":18900,"coverImage":"https://image.aladin.co.kr/product/11869/92/coversum/8937434563_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무지의 역사]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=348274299</link>
+            <guid>348274299</guid>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34827/42/coversum/8947549738_1.jpg)
+  19,800원]]></description>
+            <content:encoded><![CDATA[{"price":19800,"coverImage":"https://image.aladin.co.kr/product/34827/42/coversum/8947549738_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맥킨지의 전략적 프레임]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353238232</link>
+            <guid>353238232</guid>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35323/82/coversum/k062035376_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/35323/82/coversum/k062035376_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기계는 왜 학습하는가]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=359017572</link>
+            <guid>359017572</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35901/75/coversum/8972918660_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/35901/75/coversum/8972918660_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후회 없음]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301034522</link>
+            <guid>301034522</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/30103/45/coversum/8960519413_1.jpg)
+  17,820원]]></description>
+            <content:encoded><![CDATA[{"price":17820,"coverImage":"https://image.aladin.co.kr/product/30103/45/coversum/8960519413_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지적자본론]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=69329088</link>
+            <guid>69329088</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/6932/90/coversum/8937432234_1.jpg)
+  12,420원]]></description>
+            <content:encoded><![CDATA[{"price":12420,"coverImage":"https://image.aladin.co.kr/product/6932/90/coversum/8937432234_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[히트 리프레시]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329254546</link>
+            <guid>329254546</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/32925/45/coversum/8965965969_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/32925/45/coversum/8965965969_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아 레볼루션]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360218445</link>
+            <guid>360218445</guid>
+            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/36021/84/coversum/k972037925_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/36021/84/coversum/k972037925_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노마드 투자자 서한]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305082541</link>
+            <guid>305082541</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/30508/25/coversum/s552830511_1.jpg)
+  31,500원]]></description>
+            <content:encoded><![CDATA[{"price":31500,"coverImage":"https://image.aladin.co.kr/product/30508/25/coversum/s552830511_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[습관의 디테일]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254126643</link>
+            <guid>254126643</guid>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/25412/66/coversum/8965964040_1.jpg)
+  17,100원]]></description>
+            <content:encoded><![CDATA[{"price":17100,"coverImage":"https://image.aladin.co.kr/product/25412/66/coversum/8965964040_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어 아키텍처 The Hard Parts]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302311495</link>
+            <guid>302311495</guid>
+            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/30231/14/coversum/k972839408_1.jpg)
+  32,400원]]></description>
+            <content:encoded><![CDATA[{"price":32400,"coverImage":"https://image.aladin.co.kr/product/30231/14/coversum/k972839408_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어 아키텍처 101]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281760928</link>
+            <guid>281760928</guid>
+            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/28176/9/coversum/k042835661_1.jpg)
+  28,800원]]></description>
+            <content:encoded><![CDATA[{"price":28800,"coverImage":"https://image.aladin.co.kr/product/28176/9/coversum/k042835661_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소스 코드: 더 비기닝]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357181604</link>
+            <guid>357181604</guid>
+            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35718/16/coversum/893292497x_2.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/35718/16/coversum/893292497x_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조널 마킹]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212923337</link>
+            <guid>212923337</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/21292/33/coversum/k062636383_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/21292/33/coversum/k062636383_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지능의 기원]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=355714458</link>
+            <guid>355714458</guid>
+            <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35571/44/coversum/k042036578_1.jpg)
+  29,700원]]></description>
+            <content:encoded><![CDATA[{"price":29700,"coverImage":"https://image.aladin.co.kr/product/35571/44/coversum/k042036578_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나발 라비칸트의 부와 행복의 원칙]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345726015</link>
+            <guid>345726015</guid>
+            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34572/60/coversum/k182933266_2.jpg)
+  15,300원]]></description>
+            <content:encoded><![CDATA[{"price":15300,"coverImage":"https://image.aladin.co.kr/product/34572/60/coversum/k182933266_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나는 AI와 공부한다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=355384412</link>
+            <guid>355384412</guid>
+            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35538/44/coversum/8925574101_1.jpg)
+  22,500원]]></description>
+            <content:encoded><![CDATA[{"price":22500,"coverImage":"https://image.aladin.co.kr/product/35538/44/coversum/8925574101_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페이크와 팩트]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343339827</link>
+            <guid>343339827</guid>
+            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34333/98/coversum/k622932791_2.jpg)
+  23,220원]]></description>
+            <content:encoded><![CDATA[{"price":23220,"coverImage":"https://image.aladin.co.kr/product/34333/98/coversum/k622932791_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1인 기업]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272832299</link>
+            <guid>272832299</guid>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/27283/22/coversum/8931582765_1.jpg)
+  14,400원]]></description>
+            <content:encoded><![CDATA[{"price":14400,"coverImage":"https://image.aladin.co.kr/product/27283/22/coversum/8931582765_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[학습의 재발견]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353419235</link>
+            <guid>353419235</guid>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35341/92/coversum/k042035684_1.jpg)
+  16,020원]]></description>
+            <content:encoded><![CDATA[{"price":16020,"coverImage":"https://image.aladin.co.kr/product/35341/92/coversum/k042035684_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스타트업 이스라엘]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313733141</link>
+            <guid>313733141</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/31373/31/coversum/893155981x_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/31373/31/coversum/893155981x_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소득혁명]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353584540</link>
+            <guid>353584540</guid>
+            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35358/45/coversum/k462035893_1.jpg)
+  18,000원]]></description>
+            <content:encoded><![CDATA[{"price":18000,"coverImage":"https://image.aladin.co.kr/product/35358/45/coversum/k462035893_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일의 격]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274504870</link>
+            <guid>274504870</guid>
+            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/27450/48/coversum/k712733478_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/27450/48/coversum/k712733478_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기분 리셋]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353284889</link>
+            <guid>353284889</guid>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35328/48/coversum/k932035477_1.jpg)
+  16,920원]]></description>
+            <content:encoded><![CDATA[{"price":16920,"coverImage":"https://image.aladin.co.kr/product/35328/48/coversum/k932035477_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[창조적 행위 : 존재의 방식]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=318623961</link>
+            <guid>318623961</guid>
+            <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/31862/39/coversum/k562833421_2.jpg)
+  17,820원]]></description>
+            <content:encoded><![CDATA[{"price":17820,"coverImage":"https://image.aladin.co.kr/product/31862/39/coversum/k562833421_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물질의 세계]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334786620</link>
+            <guid>334786620</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/33478/66/coversum/k992938150_3.jpg)
+  26,820원]]></description>
+            <content:encoded><![CDATA[{"price":26820,"coverImage":"https://image.aladin.co.kr/product/33478/66/coversum/k992938150_3.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국가는 왜 실패하는가 (리커버)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351774040</link>
+            <guid>351774040</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35177/40/coversum/k452934223_2.jpg)
+  25,200원]]></description>
+            <content:encoded><![CDATA[{"price":25200,"coverImage":"https://image.aladin.co.kr/product/35177/40/coversum/k452934223_2.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[편집광만이 살아남는다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274105072</link>
+            <guid>274105072</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/27410/50/coversum/8960518719_1.jpg)
+  16,200원]]></description>
+            <content:encoded><![CDATA[{"price":16200,"coverImage":"https://image.aladin.co.kr/product/27410/50/coversum/8960518719_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 빠르게 실패하기 (15만 부 기념 에디션)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353017744</link>
+            <guid>353017744</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35301/77/coversum/k022035973_1.jpg)
+  15,120원]]></description>
+            <content:encoded><![CDATA[{"price":15120,"coverImage":"https://image.aladin.co.kr/product/35301/77/coversum/k022035973_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어, 개발 방법론을 만나다]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353023413</link>
+            <guid>353023413</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/35302/34/coversum/8966264573_1.jpg)
+  21,600원]]></description>
+            <content:encoded><![CDATA[{"price":21600,"coverImage":"https://image.aladin.co.kr/product/35302/34/coversum/8966264573_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모니터링의 새로운 미래 관측 가능성]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329183979</link>
+            <guid>329183979</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/32918/39/coversum/k292936835_1.jpg)
+  34,200원]]></description>
+            <content:encoded><![CDATA[{"price":34200,"coverImage":"https://image.aladin.co.kr/product/32918/39/coversum/k292936835_1.jpg"}]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어 설계의 정석]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345846630</link>
+            <guid>345846630</guid>
+            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[![](https://image.aladin.co.kr/product/34584/66/coversum/k392933377_1.jpg)
+  26,100원]]></description>
+            <content:encoded><![CDATA[{"price":26100,"coverImage":"https://image.aladin.co.kr/product/34584/66/coversum/k392933377_1.jpg"}]]></content:encoded>
+        </item>
+    </channel>
+</rss>
