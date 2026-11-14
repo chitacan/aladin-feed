@@ -18,6 +18,8 @@ jobs:
         deno-version: v2.1.x
     - name: prepare branch
       run: |
+        rm -f prev-feed.xml
+        git fetch origin feed && git show FETCH_HEAD:feed.xml > prev-feed.xml || rm -f prev-feed.xml
         git branch -D feed || true
         git checkout --orphan feed
     - name: Run script
@@ -25,6 +27,7 @@ jobs:
         ALADIN_EMAIL: ${{ secrets.ALADIN_EMAIL }}
         ALADIN_PASSWORD: ${{ secrets.ALADIN_PASSWORD }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        ROAM_API_KEY: ${{ secrets.ROAM_API_KEY }}
       run: |
         deno run -A main.ts
     - name: Archive captcha image

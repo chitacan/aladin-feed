@@ -26,6 +26,9 @@ if (flags.help) {
 const EMAIL = Deno.env.get("ALADIN_EMAIL");
 const PASSWORD = Deno.env.get("ALADIN_PASSWORD");
 const OPENAI_API_KEY = Deno.env.get("OPENAI_API_KEY");
+const ROAM_API_KEY = Deno.env.get("ROAM_API_KEY");
+const ROAM_WRITE_URL = "https://api.roamresearch.com/api/graph/chitacan/write";
+const PREV_FEED_PATH = "prev-feed.xml";
 
 if (!EMAIL || !PASSWORD || !OPENAI_API_KEY) {
   console.log("Cannot find required environment variables.");
@@ -215,6 +218,86 @@ const feed = new Feed({
 
 for (const book of books) {
   feed.addItem(book);
+}
+
+type Book = typeof books[number];
+
+// 이전 피드의 guid(ItemId) 목록. 이전 피드가 없거나 비어 있으면 null.
+async function readPrevIds(): Promise<Set<string> | null> {
+  try {
+    const xml = await Deno.readTextFile(PREV_FEED_PATH);
+    const ids = Array.from(
+      xml.matchAll(/<guid[^>]*>(.+?)<\/guid>/g),
+      (m) => m[1],
+    );
+    return ids.length ? new Set(ids) : null;
+  } catch {
+    return null;
+  }
+}
+
+// 오늘(KST) Roam 데일리 노트 uid (MM-DD-YYYY)
+function todayDailyNoteUid() {
+  const kst = new Date(Date.now() + 9 * 60 * 60 * 1000);
+  const pad = (n: number) => String(n).padStart(2, "0");
+  return `${pad(kst.getUTCMonth() + 1)}-${pad(kst.getUTCDate())}-${kst.getUTCFullYear()}`;
+}
+
+async function addToRoam(newBooks: Book[]) {
+  const dailyNote = todayDailyNoteUid();
+  const actions = newBooks.flatMap((book, i) => {
+    const uid = -(i + 1);
+    const { price, coverImage } = JSON.parse(book.content);
+    return [
+      {
+        action: "create-block",
+        location: {
+          "page-title": { "daily-note-page": dailyNote },
+          order: "last",
+        },
+        block: {
+          string: `#[[${book.title}]] [link](${book.link}) #books #aladin`,
+          uid,
+        },
+      },
+      {
+        action: "create-block",
+        location: { "parent-uid": uid, order: "last" },
+        block: {
+          string: `![](${coverImage})\n\n${price.toLocaleString("ko-KR")}원`,
+        },
+      },
+    ];
+  });
+
+  const res = await fetch(ROAM_WRITE_URL, {
+    method: "POST",
+    headers: {
+      "x-authorization": `Bearer ${ROAM_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ action: "batch-actions", actions }),
+  });
+  if (!res.ok) {
+    throw new Error(`Roam write failed: ${res.status} ${await res.text()}`);
+  }
+}
+
+// Roam 쓰기가 실패하면 feed.xml 을 만들지 않고 종료해서, 다음 실행에서 다시 시도하게 한다.
+const prevIds = await readPrevIds();
+if (!prevIds) {
+  console.log("No previous feed. Skipping Roam sync.");
+} else if (!ROAM_API_KEY) {
+  console.log("ROAM_API_KEY is not set. Skipping Roam sync.");
+} else {
+  const newBooks = books.filter((book) => !prevIds.has(book.id));
+  if (newBooks.length) {
+    console.log(`Adding ${newBooks.length} new book(s) to Roam...`);
+    newBooks.forEach((book) => console.log(`  - ${book.title}`));
+    await addToRoam(newBooks);
+  } else {
+    console.log("No new books.");
+  }
 }
 
 await Deno.writeTextFile("feed.xml", feed.rss2());
